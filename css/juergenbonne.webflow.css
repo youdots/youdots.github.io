@@ -20,7 +20,7 @@ p {
 }
 
 a {
-  border-bottom: .06em solid #fff;
+  color: #fff;
   text-decoration: none;
 }
 
@@ -76,7 +76,6 @@ a:visited {
 
 .stage {
   padding-top: 2em;
-  padding-bottom: 1em;
 }
 
 .main {
